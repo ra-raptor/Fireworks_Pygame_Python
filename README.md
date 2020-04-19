@@ -23,6 +23,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-Your Name - [``Vikas Kumar Saw``](https://instagram.com/vikas.kumar.saw) - vikasvks0112@gmail.com
+Vikas Kumar Saw - [``Vikas Kumar Saw``](https://instagram.com/vikas.kumar.saw) - vikasvks0112@gmail.com
 
 Project Link: [https://github.com/VikasKumarSaw/Fireworks_Pygame_Python](https://github.com/VikasKumarSaw/Fireworks_Pygame_Python)
