@@ -1,4 +1,5 @@
 # Fireworks_Pygame_Python
+start with `main.py`
  - #### Made using Python and Pygame Library
  - #### 5 diffrent types of Fire Crackers
    - Normal Rockets
