@@ -8,7 +8,7 @@ start with `main.py`
    - Fountain Cracker ( FlowerPot / Aanaar )
    - Ground Spinner ( Chakri )
   - #### Physics and Sound Effects 
-  - #### Everything stimulated only with circles
+  - #### Everything simulated only with circles
  
 ## Prerequisites
  - #### Python
